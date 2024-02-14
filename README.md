@@ -1,4 +1,4 @@
-# Useful tip for documenting
+# Useful tip for communicating
 
 1. [Documenting](DOCUMENTING.md)
 
