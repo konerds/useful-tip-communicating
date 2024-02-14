@@ -5,3 +5,5 @@
 2. [Git](GIT.md)
 
 3. [Error Message](ERROR-MESSAGE.md)
+
+4. [Naming](NAMING.md)
