@@ -1,4 +1,4 @@
-# GIT
+# Git
 
 ## Commit Message
 
@@ -39,3 +39,8 @@
 
 6. Git 의 목적은 코드의 형상 관리
 > 해당 Commit Message 가 코드 이력을 추적하는 데 도움이 되는 지 생각
+
+### Good Reference
+> [How to Write a Git Commit Message](https://cbea.ms/git-commit)
+> 
+> [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
