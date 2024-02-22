@@ -41,7 +41,9 @@
 > 해당 Commit Message 가 코드 이력을 추적하는 데 도움이 되는 지 생각
 
 ### Good Reference
-> [Udacity Style Guide](https://udacity.github.io/git-styleguide/)
+> [Udacity Style Guide](https://udacity.github.io/git-styleguide)
+>
+> [Karma Style Guide](https://karma-runner.github.io/0.10/dev/git-commit-msg.html)
 >
 > [How to Write a Git Commit Message](https://cbea.ms/git-commit)
 > 
